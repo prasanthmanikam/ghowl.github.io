@@ -1,0 +1,6 @@
+title: Your Portfolio
+description: Cybersecurity Portfolio using Jekyll
+url: "https://yourusername.github.io"
+baseurl: "/your-repo-name"  # Use this only if your repo is not the root repository.
+
+theme: jekyll-theme-hacker # You can replace this with the theme of your choice
